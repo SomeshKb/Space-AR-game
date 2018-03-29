@@ -1,12 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\collissionScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\GameManager.cs">
     <Files>
-      <File FileName="Assets\Script\enemyScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\collissionScript.cs" Line="24" Column="3" />
-      <File FileName="Assets\Script\Destroy.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\webCamScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\MiniMap\Scripts\MapMarker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\enemyScript.cs" Line="17" Column="53" />
+      <File FileName="Assets\Script\MoveEnemy.cs" Line="18" Column="38" />
+      <File FileName="Assets\Script\ActivateShield.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\webCamScript.cs" Line="25" Column="40" />
+      <File FileName="Assets\Script\SpaceShipAI.cs" Line="33" Column="1" />
+      <File FileName="Assets\Script\GameManager.cs" Line="23" Column="1" />
+      <File FileName="Assets\Script\collissionScript.cs" Line="13" Column="29" />
+      <File FileName="Assets\Script\DestroyBullet.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -56,10 +56,18 @@
      <Compile Include="Assets\MiniMap\Scripts\MapCanvasController.cs" />
      <Compile Include="Assets\MiniMap\Scripts\MapMarker.cs" />
      <Compile Include="Assets\MiniMap\Scripts\MarkerGroup.cs" />
+     <Compile Include="Assets\Script\ActivateShield.cs" />
      <Compile Include="Assets\Script\appExit.cs" />
+     <Compile Include="Assets\Script\BulletInstantiator.cs" />
      <Compile Include="Assets\Script\collissionScript.cs" />
      <Compile Include="Assets\Script\Destroy.cs" />
+     <Compile Include="Assets\Script\DestroyBullet.cs" />
+     <Compile Include="Assets\Script\EndSceneManager.cs" />
      <Compile Include="Assets\Script\enemyScript.cs" />
+     <Compile Include="Assets\Script\GameManager.cs" />
+     <Compile Include="Assets\Script\MoveEnemy.cs" />
+     <Compile Include="Assets\Script\PlayerDead.cs" />
+     <Compile Include="Assets\Script\SpaceShipAI.cs" />
      <Compile Include="Assets\Script\webCamScript.cs" />
  <Reference Include="Vuforia.UnityExtensions.Editor">
  <HintPath>D:/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
